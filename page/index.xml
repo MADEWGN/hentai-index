@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on FILE - WIBU</title>
+    <link>https://file-wibu.netlify.app/page/</link>
+    <description>Recent content in Pages on FILE - WIBU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Sep 2021 03:55:09 +0000</lastBuildDate><atom:link href="https://file-wibu.netlify.app/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://file-wibu.netlify.app/about-me/</link>
+      <pubDate>Tue, 28 Sep 2021 03:55:09 +0000</pubDate>
+      
+      <guid>https://file-wibu.netlify.app/about-me/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
